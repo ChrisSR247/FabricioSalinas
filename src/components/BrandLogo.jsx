@@ -17,3 +17,4 @@ export default function BrandLogo({ className = "h-12 sm:h-14", onClick }) {
     </Link>
   );
 }
+

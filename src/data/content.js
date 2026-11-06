@@ -135,3 +135,4 @@ export const content = {
     credits: "Sitio web por Academia KW Studio · Loja, Ecuador"
   }
 };
+

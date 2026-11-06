@@ -123,3 +123,4 @@ export default function MenuOverlay({ isOpen, onClose }) {
     </AnimatePresence>
   );
 }
+

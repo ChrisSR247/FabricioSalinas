@@ -7,3 +7,4 @@ export default function PhotoCredit({ text = "Foto: Academia KW", className = ""
     </div>
   );
 }
+
